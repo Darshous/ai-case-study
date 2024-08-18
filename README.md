@@ -3,7 +3,7 @@
 # Johnathan Marsh ![Profile_Picture](Pics/JM_Profile.png)
 
 ## Overview
-As the newly appointed leader of our company's U.S. based AI integration team, I believe it is imperative for industry professionals to prioritize the enhancement of employee capabilities through AI, rather than solely focusing on the elimination of specific roles as a direct gain to the bottom line. While it is inevitable that AI will reshape job functions and daily tasks, it is crucial to recognize that human experience and a sense of fulfillment are essential components of meaningful work.
+As the newly appointed leader of our company's U.S.-based AI integration team, I believe it is imperative for industry professionals to prioritize the enhancement of employee capabilities through AI, rather than solely focusing on the elimination of specific roles as a direct gain to the bottom line. While it is inevitable that AI will reshape job functions and daily tasks, it is crucial to recognize that human experience and a sense of fulfillment are essential components of meaningful work.
 
 AI, by its very nature, lacks the intrinsic motivation to ensure task completion or to use saved time for personal enrichment. It remains indifferent to quarterly profits, milestone achievements, and the overall well-being of employees. The true value of AI-driven efficiency lies in its potential to empower us to enrich our lives, our families, and our communities.
 
@@ -11,7 +11,7 @@ AI, by its very nature, lacks the intrinsic motivation to ensure task completion
 
 For this case study, I have selected Fireflies.ai (Fireflies AI Corp.), a company dedicated to enhancing team experiences by automatically recording and transcribing meetings across various platforms. Fireflies.ai operates in the AI, meeting software, and productivity space, competing with industry giants such as Google and Microsoft, as well as smaller, more agile companies like Notiv and SummitSync.
 
-Founded in July 2016 by Krish Ramineni and Sam Udotong and based in San Francisco, California, Fireflies.ai boasts over 16 million users and a monthly site visit growth rate of 7.46%.(Crunchbase) The company has secured $19 million in funding from inception to May 2021 across twelve investors, including two venture capital firms.
+Founded in July 2016 by Krish Ramineni and Sam Udotong and based in San Francisco, California, Fireflies.ai boasts over 16 million users and a monthly site visit growth rate of 7.46%. **(Crunchbase)** The company has secured $19 million in funding from inception to May 2021 across twelve investors, including two venture capital firms.
 
 Fireflies.ai addresses the challenge of excessive meetings and limited time. Our increased reliance on online meetings to bring together cross-functional teams has created a difficult environment for maintaining attention to meeting agendas and staying engaged. It is all too easy to become distracted and potentially miss critical moments, such as time-sensitive tasks and key objective preparation.
 
@@ -25,7 +25,7 @@ Over the last several years, we have observed a shift in the online meeting spac
 > "Discover the latest trends and resources around AI and ML. On this page, you can explore how AI is revolutionizing startups and businesses. From meetings, collaboration, to sales, businesses are growing fast with AI. Learn how Artificial Intelligence can leverage your efforts in business.
 >Fireflies.ai
 
-Companies must evolve to offer more sophisticated ways to communicate, collaborate, and connect. Adopting a more dynamic, inclusive, and effective meeting style will be crucial. Meetings should not merely be seen as necessary evils but as genuinely productive and engaging experiences (i.e., Smart Systems). Whiteboards, live polls, and real-time feedback are just the beginning. A few industry players have started researching the impact of eye tracking, facial expression tracking, and other biometric data to understand meeting engagement (iMotions).
+Companies must evolve to offer more sophisticated ways to communicate, collaborate, and connect. Adopting a more dynamic, inclusive, and effective meeting style will be crucial. Meetings should not merely be seen as necessary evils but as genuinely productive and engaging experiences **(i.e., Smart Systems)**. Whiteboards, live polls, and real-time feedback are just the beginning. A few industry players have started researching the impact of eye tracking, facial expression tracking, and other biometric data to understand meeting engagement **(iMotions)**.
 
 ## Recommendations
 
