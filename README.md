@@ -35,7 +35,7 @@ Looking ahead, Fireflies.ai should continue to focus on building a more engaging
 
 # Citations
 - [MIT News](https://news.mit.edu/2020/fireflies-meetings-0521)
-## Fireflies helps companies get more out of meetings may 21, 2020
+## Fireflies helps companies get more out of meetings May 21, 2020
 
 ## Business Impact
 - [G2 Reviews](https://www.g2.com/products/fireflies-ai/reviews)fireflies-ai-review-10005879
