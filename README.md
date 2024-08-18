@@ -11,7 +11,7 @@ AI, by its very nature, lacks the intrinsic motivation to ensure task completion
 
 For this case study, I have selected Fireflies.ai (Fireflies AI Corp.), a company dedicated to enhancing team experiences by automatically recording and transcribing meetings across various platforms. Fireflies.ai operates in the AI, meeting software, and productivity space, competing with industry giants such as Google and Microsoft, as well as smaller, more agile companies like Notiv and SummitSync.
 
-Founded in July 2016 by Krish Ramineni and Sam Udotong and based in San Francisco, California, Fireflies.ai boasts over 16 million users and a monthly site visit growth rate of 7.46%. **(Crunchbase)** The company has secured $19 million in funding from inception to May 2021 across twelve investors, including two venture capital firms.
+Founded in July 2016 by Krish Ramineni and Sam Udotong and based in San Francisco, California, Fireflies.ai boasts over 16 million users and a monthly site visit growth rate of 7.46%. **(Crunchbase)**. The company has secured $19 million in funding from inception to May 2021 across twelve investors, including two venture capital firms.
 
 Fireflies.ai addresses the challenge of excessive meetings and limited time. Our increased reliance on online meetings to bring together cross-functional teams has created a difficult environment for maintaining attention to meeting agendas and staying engaged. It is all too easy to become distracted and potentially miss critical moments, such as time-sensitive tasks and key objective preparation.
 
