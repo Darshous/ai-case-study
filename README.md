@@ -1,6 +1,6 @@
 # Module 1 AI Bootcamp
 # AI-Case-Study
-# Johnathan Marsh
+# Johnathan Marsh ![Profile_Picture](~/bootcamp-submissions/module1/ai-case-study/pics/JM_Profile.png)
 
 ## Overview
 As the newly appointed leader of our companies U.S. based AI integration team, I believe it is imperative for industry professionals to prioritize the enhancement of employee capabilities through AI, rather than solely focusing on the elimination of specific roles as a direct gain to the bottom line. While it is inevitable that AI will reshape job functions and daily tasks, it is crucial to recognize that human experience and a sense of fulfillment are essential components of meaningful work.
