@@ -34,25 +34,26 @@ In the highly competitive online meeting space, Fireflies.ai is well-regarded am
 Looking ahead, Fireflies.ai should continue to focus on building a more engaging environment for collaborative efforts. As the online meeting space continues to capture an increasing amount of time and energy from productive teams, ensuring that every minute of collaborative time is seen as highly valuable and enriching should be a top priority. Exploring solutions that captivate team members' attention and finding ways to quantify and qualify participation will position Fireflies.ai to lead the market in online collaborative enrichment tools.
 
 # Citations
-- [MIT News](https://news.mit.edu/2020/fireflies-meetings-0521)
-## Fireflies helps companies get more out of meetings May 21, 2020
+### *Fireflies helps companies get more out of meetings* May 21, 2020
+- MIT News [https://news.mit.edu/2020/fireflies-meetings-0521](https://news.mit.edu/2020/fireflies-meetings-0521)
+
 
 ## Business Impact
-- [G2 Reviews](https://www.g2.com/products/fireflies-ai/reviews)fireflies-ai-review-10005879
+- G2 Reviews [https://www.g2.com/products/fireflies-ai/reviews/fireflies-ai-review-10005879](https://www.g2.com/products/fireflies-ai/reviews/fireflies-ai-review-10005879)
 
 ## i.e.Smart Systems
-- [iMotions](https://iesmartsystems.com/)the-future-of-meetings-embracing-video-conferencing-interactive-tech/#:~:text=Looking%20Ahead,communicate%2C%20collaborate%2C%20and%20connect.
+- iMotions [https://iesmartsystems.com/the-future-of-meetings-embracing-video-conferenc...](https://iesmartsystems.com/the-future-of-meetings-embracing-video-conferencing-interactive-tech/#:~:text=Looking%20Ahead,communicate%2C%20collaborate%2C%20and%20connect.)
 
-- [iMotions](https://imotions.com/products/imotions-lab/modules/cloud/?utm_source=google&utm_medium=cpc&utm_campaign=Remote_data_collection&utm_content=%7Badgroup%7D&utm_term=gazerecorder&gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7Dq91KZoJa6XiYiZ6KbntkBM5INsYHiI5bkbsrATcd0M4Mj-yBzHjhQaAkTfEALw_wcB)
+- iMotions [https://imotions.com/products/imotions-lab...](https://imotions.com/products/imotions-lab/modules/cloud/?utm_source=google&utm_medium=cpc&utm_campaign=Remote_data_collection&utm_content=%7Badgroup%7D&utm_term=gazerecorder&gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7Dq91KZoJa6XiYiZ6KbntkBM5INsYHiI5bkbsrATcd0M4Mj-yBzHjhQaAkTfEALw_wcB)
 
-- [G2](https://www.g2.com/products/fathom-2022-10-26/reviews)
+- G2 [https://www.g2.com/products/fathom-2022-10-26/reviews](https://www.g2.com/products/fathom-2022-10-26/reviews)
 
-# Sentiment Analysis
-- [Fireflies Blog](https://fireflies.ai/blog/sentiment-analysis-2)
-- [Fireflies.ai Blog](https://fireflies.ai/blog/tag/ai-and-ml)
+## Sentiment Analysis
+- Fireflies.ai Blog [https://fireflies.ai/blog/sentiment-analysis-2](https://fireflies.ai/blog/sentiment-analysis-2)
+- Fireflies.ai Blog [https://fireflies.ai/blog/tag/ai-and-ml](https://fireflies.ai/blog/tag/ai-and-ml)
 
-# Reviews
-- [Techapp](https://techpp.com/2024/05/02/fireflies-ai-review)
+## Reviews
+- Techapp [https://techpp.com/2024/05/02/fireflies-ai-review](https://techpp.com/2024/05/02/fireflies-ai-review)
 
-# Finance and Technologies Analysis 
-- [Crunchbase](https://Crunchbse.com/organization/fireflies/technology)
+## Finance and Technologies Analysis 
+- Crunchbase [https://Crunchbase.com/organization/fireflies/technology](https://Crunchbase.com/organization/fireflies/technology)
